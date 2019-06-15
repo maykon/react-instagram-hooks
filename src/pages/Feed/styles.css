@@ -1,0 +1,24 @@
+section#post-list {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+section#post-list input {
+  height: 30px;
+  padding: 5px;
+  margin-top: 15px;
+  width: 100%;
+}
+
+section#post-list #loading {
+  font-size: 18px;
+  font-weight: bold;
+
+  color: #666;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
